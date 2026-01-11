@@ -32,7 +32,7 @@ This lab documents installing Windows 11, joining the machine to an Active Direc
 
 ## Notes / What I Learned
 - Domain joins require proper network and DNS configuration
-- Reboot is required after joining a domain
+- Domain user authentication works only after the machine is successfully joined to the domain.
 - Domain user accounts can authenticate on joined machines
 
 ## Screenshots
